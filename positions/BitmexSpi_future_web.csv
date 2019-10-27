@@ -1,0 +1,4 @@
+symbol,expiry,api,long,short,strategy,gross,fee,lastPrice,contractSize,subTractFee
+XBTUSD,this_week,BitmexSpi_future_web,3.0,0.0,strategy1,-1.2481809564251712e-05,53.908,3858.5,20,False
+ETHUSD,this_week,BitmexSpi_future_web,0.0,0.0,strategy1,0.0,0.0,0.0,20,False
+

@@ -1,0 +1,5 @@
+symbol,expiry,api,long,short,strategy,gross,fee,lastPrice,contractSize,subTractFee
+ETH,this_week,HuobiSpi_future_web,0.0,0.0,strategy1,0.0,0.0,0.0,20,False
+ETH,next_week,HuobiSpi_future_web,0.0,0.0,strategy1,0.0,0.0,0.0,20,False
+BTC,this_week,HuobiSpi_future_web,2.0,1.0,smm,-0.00045242686673939415,23.714040000000004,3928.85,20,False
+

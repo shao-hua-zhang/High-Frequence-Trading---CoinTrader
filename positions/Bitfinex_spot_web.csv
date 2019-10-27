@@ -1,0 +1,3 @@
+symbol,expiry,api,long,short,strategy,gross,fee,lastPrice,contractSize
+eos_eth,None,Bitfinex_spot_web,0.0,0.0,strategy1,0.0,0.0,0.0,1
+

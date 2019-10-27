@@ -1,0 +1,74 @@
+{
+    "eth_ustd_Arb": {
+        "balance": {
+            "huobi": {
+                "eth": 0.8639999999999999,
+                "usdt": 222.12533000000005
+            },
+            "okex": {
+                "eth": 1.025,
+                "usdt": 0.16750127450175425
+            }
+        }
+    },
+    "smm": {
+        "balance": {
+            "bitmex": {
+                "ETHUSD@future": -0.0011920400304378906,
+                "XBTUSD@future": -0.0019040474756423936
+            },
+            "huobi": {
+                "BTC@future": -1.5504116118494526
+            }
+        }
+    },
+    "strategy1": {},
+    "strategy2": {
+        "balance": {
+            "huobi": {
+                "BTC@future": 0
+            }
+        }
+    },
+    "strategy4": {
+        "balance": {
+            "huobi": {
+                "eth": -0.01,
+                "usdt": 2.8427
+            },
+            "okex": {
+                "btc@future": 0,
+                "eth": 10.0,
+                "usdt": 9.9983426
+            }
+        }
+    },
+    "strategy5": {
+        "balance": {
+            "huobi": {
+                "dash": 0.11,
+                "eos": 7.230400000000001,
+                "eth": 0,
+                "usdt": 166.26017760000002
+            },
+            "okex": {
+                "dash": 0.292322,
+                "eos": 22.7696,
+                "eth": 0,
+                "usdt": 33.96449303999999
+            }
+        }
+    },
+    "strategy6": {
+        "balance": {
+            "huobi": {
+                "eth": 0.9849999999999999,
+                "usdt": 198.26245000000006
+            },
+            "okex": {
+                "eth": 1.0150000000000001,
+                "usdt": 2.1290639745017543
+            }
+        }
+    }
+}

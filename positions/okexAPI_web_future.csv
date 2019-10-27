@@ -1,0 +1,6 @@
+symbol,expiry,api,long,short,strategy,gross,fee,lastPrice,contractSize,subTractFee
+ltc,this_week,okexAPI_web_future,0.0,0.0,strategy1,0.0,0.0,0.0,10,False
+eth,quarter,okexAPI_web_future,0.0,0.0,strategy3,0.0,0.0,269.944,10,False
+eth,this_week,okexAPI_web_future,0.0,0.0,strategy3,-4.518935022334962e-05,0.0,271.134,10,False
+btc,this_week,okexAPI_web_future,0.0,0.0,strategy4,0.0,0.0,0.0,1,False
+eth,this_week,okexAPI_web_future,0.0,0.0,strategy1,0.0,0.0,0.0,1,False

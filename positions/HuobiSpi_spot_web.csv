@@ -1,0 +1,4 @@
+symbol,expiry,api,long,short,strategy,gross,fee,lastPrice,contractSize
+ltc_btc,None,HuobiSpi_spot_web,0.0,0.0,strategy1,0.0,0.0,0.0,1
+eos_eth,None,HuobiSpi_spot_web,-0.8008,0.0,strategy1,-0.003385572588000008,6.079073000000002e-05,0.022727900000000002,1
+

@@ -1,0 +1,24 @@
+[Strategy]
+strategyModule = strategies.testStrategy
+strategyName = testStrategy
+strategyTag = strategy1
+
+[Settings]
+activeTicker = eth_usdt
+activeTickerIsSpot = yes
+activeTickerExpire = none
+activeTickerAPI = BinanceSpi_spot_web
+activeMinAmount = 0.1
+# defines leaverage
+activeContractSize = 1
+
+passiveTicker = eth_usdt
+passiveTickerIsSpot = yes
+passiveTickerExpire = none
+passiveTickerAPI = BinanceSpi_spot_web
+passiveMinAmount = 0.1
+# defines leaverage
+passiveContractSize = 1
+
+shortWindowSize = 20
+longWindowSize = 100

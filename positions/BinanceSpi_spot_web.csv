@@ -1,0 +1,6 @@
+symbol,expiry,api,long,short,strategy,gross,fee,lastPrice,contractSize,subTractFee
+btc_pax,None,BinanceSpi_spot_web,-26.596039999999963,0.0,smm_btc,-14000.641492729863,8497.015472715026,3878.35,1,False
+btc_pax,None,BinanceSpi_spot_web,4.102789999999998,0.0,smm1_btc,-23.480627849987027,7753.643998842879,3878.35,1,False
+pax_usdt,None,BinanceSpi_spot_web,-40.43000000007714,0.0,smm1,-60.749608999995814,3399.0130035249335,1.0056,1,False
+pax_usdt,None,BinanceSpi_spot_web,10025.200000000237,0.0,smm,95.95104200000911,3981.600676539995,1.0056,1,False
+
